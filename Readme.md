@@ -1,4 +1,4 @@
-# all strategies are tested against this config. Tests only done on binance futures
+# all strategies are tested against this config. Tests only done on binance spot
 
 ```
 
